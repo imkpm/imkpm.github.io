@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
    <title>thoughts on imkpm &#39;s blog</title>
-   <link>https://houjq.cn/tags/thoughts/</link>
+   <link>https://imkpm.github.io/tags/thoughts/</link>
    <description>Recent content in thoughts on imkpm &#39;s blog</description>
    <generator>Hugo -- gohugo.io</generator>
    <copyright>&amp;copy; 2020 - </copyright>
    <lastBuildDate>Fri, 03 Apr 2020 13:58:33 +0800</lastBuildDate>
    
-       <atom:link href="https://houjq.cn/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://imkpm.github.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
        <title>First Post</title>
-       <link>https://houjq.cn/posts/2020/04/03/first/</link>
+       <link>https://imkpm.github.io/posts/2020/04/03/first/</link>
        <pubDate>Fri, 03 Apr 2020 13:58:33 +0800</pubDate>
        
-       <guid>https://houjq.cn/posts/2020/04/03/first/</guid>
+       <guid>https://imkpm.github.io/posts/2020/04/03/first/</guid>
        <description></description>
      </item>
    
