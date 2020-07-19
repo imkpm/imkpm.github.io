@@ -2,22 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
    <title>thoughts on imkpm &#39;s blog</title>
-   <link>https://imkpm.github.io/tags/thoughts/</link>
+   <link>https://houjq.cn/tags/thoughts/</link>
    <description>Recent content in thoughts on imkpm &#39;s blog</description>
    <generator>Hugo -- gohugo.io</generator>
    <copyright>&amp;copy; 2020 - </copyright>
    <lastBuildDate>Fri, 03 Apr 2020 13:58:33 +0800</lastBuildDate>
    
-       <atom:link href="https://imkpm.github.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://houjq.cn/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
    
    
      <item>
        <title>First Post</title>
-       <link>https://imkpm.github.io/posts/2020/04/03/first/</link>
+       <link>https://houjq.cn/posts/2020/04/03/first/</link>
        <pubDate>Fri, 03 Apr 2020 13:58:33 +0800</pubDate>
        
-       <guid>https://imkpm.github.io/posts/2020/04/03/first/</guid>
-       <description></description>
+       <guid>https://houjq.cn/posts/2020/04/03/first/</guid>
+       <description>&lt;h3 id=&#34;自适应教育&#34;&gt;自适应教育&lt;/h3&gt;
+&lt;h5 id=&#34;一自适应是什么&#34;&gt;一、自适应是什么&lt;/h5&gt;
+&lt;p&gt;定义&lt;/p&gt;
+&lt;p&gt;来源&lt;/p&gt;
+&lt;p&gt;现状&lt;/p&gt;
+&lt;h5 id=&#34;二自适应可以做什么&#34;&gt;二、自适应可以做什么&lt;/h5&gt;
+</description>
      </item>
    
  </channel>
